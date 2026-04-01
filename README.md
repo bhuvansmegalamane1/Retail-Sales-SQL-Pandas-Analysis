@@ -4,6 +4,9 @@ A Data Analysis portfolio project demonstrating end-to-end data cleaning and exp
 
 ## 🚀 Project Overview
 This project simulates a real-world retail business case where raw data is messy and inconsistent. The same cleaning and analysis tasks are performed using two industry-standard tools for comparison.
+<img width="1500" height="600" alt="image" src="https://github.com/user-attachments/assets/b8675baa-d8b9-4962-b121-63d6528df12c" />
+
+
 
 ### 📁 Repository Structure
 -   **`data/`**: Contains raw, messy CSV datasets (`customers_raw`, `products_raw`, `orders_raw`).
