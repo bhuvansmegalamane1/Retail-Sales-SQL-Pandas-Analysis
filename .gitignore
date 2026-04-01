@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Data & Database
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# Results
+*.png
+!Pandas_Cleaning_Results.png  # Keep the results image for the portfolio!

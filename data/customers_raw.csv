@@ -1,0 +1,104 @@
+customer_id,customer_name,location,signup_date
+101,Customer_1,Houston,2023-01-15
+102,Customer_2,Phoenix,2023-10-28
+103,Customer_3,Chicago,2023-03-06
+104,Customer_4,Phoenix,2023-12-11
+105,Customer_5,Phoenix,2023-11-23
+106,Customer_6,Los Angeles,2023-01-09
+107,Customer_7,Chicago,2023-12-10
+108,Customer_8,Chicago,2023-05-09
+109,Customer_9,Chicago,2023-05-16
+110,Customer_10,Phoenix,2023-03-04
+111,Customer_11,Houston,2023-05-19
+112,Customer_12,Chicago,2023-03-22
+113,Customer_13,,2023-06-12
+114,Customer_14,Phoenix,2023-10-16
+115,Customer_15,Los Angeles,2023-09-18
+116,Customer_16,Houston,2023-08-19
+117,Customer_17,,2023-02-10
+118,Customer_18,,2023-01-28
+119,Customer_19,Los Angeles,2023-05-15
+120,Customer_20,Houston,2023-07-20
+121,Customer_21,Phoenix,2023-11-24
+122,Customer_22,New York,2023-09-25
+123,Customer_23,Houston,2023-02-02
+124,Customer_24,Los Angeles,2023-02-17
+125,Customer_25,,2023-03-03
+126,Customer_26,Phoenix,2023-08-04
+127,Customer_27,Houston,2023-10-20
+128,Customer_28,New York,2023-04-09
+129,Customer_29,New York,2023-06-21
+130,Customer_30,Chicago,2023-12-26
+131,Customer_31,Chicago,2023-08-02
+132,Customer_32,Los Angeles,2023-02-04
+133,Customer_33,Houston,2023-08-15
+134,Customer_34,Houston,2023-04-11
+135,Customer_35,,2023-05-11
+136,Customer_36,,2023-09-14
+137,Customer_37,,2023-01-05
+138,Customer_38,Chicago,2023-08-06
+139,Customer_39,Houston,2023-09-12
+140,Customer_40,Houston,2023-12-25
+141,Customer_41,New York,2023-10-10
+142,Customer_42,Chicago,2023-07-26
+143,Customer_43,Phoenix,2023-01-15
+144,Customer_44,Chicago,2023-12-12
+145,Customer_45,Phoenix,2023-02-11
+146,Customer_46,New York,2023-06-28
+147,Customer_47,Los Angeles,2023-03-04
+148,Customer_48,Houston,2023-12-18
+149,Customer_49,New York,2023-08-19
+150,Customer_50,Houston,2023-08-29
+151,Customer_51,,2023-02-21
+152,Customer_52,Los Angeles,2023-04-06
+153,Customer_53,Los Angeles,2023-08-10
+154,Customer_54,New York,2023-08-19
+155,Customer_55,Los Angeles,2023-08-25
+156,Customer_56,Phoenix,2023-05-23
+157,Customer_57,Los Angeles,2023-06-20
+158,Customer_58,Houston,2023-01-29
+159,Customer_59,Houston,2023-02-05
+160,Customer_60,Houston,2023-01-13
+161,Customer_61,Houston,2023-06-09
+162,Customer_62,Phoenix,2023-11-23
+163,Customer_63,Chicago,2023-07-06
+164,Customer_64,,2023-08-31
+165,Customer_65,New York,2023-03-27
+166,Customer_66,Houston,2023-10-11
+167,Customer_67,Los Angeles,2023-03-07
+168,Customer_68,Houston,2023-06-19
+169,Customer_69,Los Angeles,2023-02-14
+170,Customer_70,,2023-03-03
+171,Customer_71,,2023-05-14
+172,Customer_72,,2023-10-11
+173,Customer_73,Los Angeles,2023-01-28
+174,Customer_74,Houston,2023-04-18
+175,Customer_75,,2023-02-13
+176,Customer_76,Phoenix,2023-12-06
+177,Customer_77,Los Angeles,2023-10-13
+178,Customer_78,Los Angeles,2023-11-27
+179,Customer_79,Houston,2023-05-08
+180,Customer_80,Los Angeles,2023-12-14
+181,Customer_81,Los Angeles,2023-08-19
+182,Customer_82,,2023-07-09
+183,Customer_83,Houston,2023-08-13
+184,Customer_84,,2023-10-10
+185,Customer_85,,2023-05-01
+186,Customer_86,Houston,2023-04-26
+187,Customer_87,New York,2023-08-21
+188,Customer_88,,2023-09-16
+189,Customer_89,Phoenix,2023-12-25
+190,Customer_90,Phoenix,2023-07-17
+191,Customer_91,Los Angeles,2023-05-17
+192,Customer_92,Phoenix,2023-11-14
+193,Customer_93,Los Angeles,2023-06-14
+194,Customer_94,New York,2023-08-13
+195,Customer_95,Houston,2023-11-03
+196,Customer_96,Houston,2023-08-22
+197,Customer_97,Houston,2023-06-21
+198,Customer_98,Phoenix,2023-06-01
+199,Customer_99,New York,2023-11-11
+200,Customer_100,Phoenix,2023-06-09
+101,Customer_1,Houston,2023-01-15
+102,Customer_2,Phoenix,2023-10-28
+103,Customer_3,Chicago,2023-03-06
